@@ -1,0 +1,12 @@
+/* pages/page2/page2.wxss */
+.intro {
+  padding: 40px 19%;
+  color: #000000;
+  line-height: 1.5;
+  text-align: center;
+  margin-bottom: 30mm;
+  margin-top: 2.2cm;
+  margin-left: 0em;
+  font-size: 8mm;
+
+}

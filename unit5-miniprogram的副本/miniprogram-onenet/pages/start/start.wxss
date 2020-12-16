@@ -1,0 +1,30 @@
+/* start.wxss */
+
+.intro {
+  padding: 40px 19%;
+  color: #000000;
+  line-height: 1.5;
+  text-align: center;
+  margin-bottom: 30mm;
+  margin-top: 2.2cm;
+  margin-left: 0em;
+  font-size: 8mm;
+
+}
+
+.btn1{
+  width: 60%;
+  background-color: #999999;
+  margin-top: 50rpx;
+  background-color: #F0FFFF;
+  color: black;
+  border-radius: 98rpx; 
+  margin-bottom: 10px;
+}
+.btn1::after {
+  border-radius: 98rpx;
+  border: 0px;
+}
+.click{
+  background-color:#EEEEEE;
+}

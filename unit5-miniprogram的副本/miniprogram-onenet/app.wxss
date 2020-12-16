@@ -1,0 +1,7 @@
+/**app.wxss**/
+page{
+  height: 100%;
+background-image:url(https://wx4.sinaimg.cn/mw1024/007etAyrly1gl1m6lh90pj30u01hc0wi.jpg);
+background-size: auto;
+
+}

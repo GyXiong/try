@@ -1,0 +1,6 @@
+<view class="top"><canvas class = "canvas" id="chart1"
+canvas-id="humidity"></canvas></view>
+<canvas class = "canvas" id="chart2"
+canvas-id="light"></canvas>
+
+<button class="btn1" bindtap="navigate" hover-class="click">查看心率</button>

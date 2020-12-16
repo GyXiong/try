@@ -1,0 +1,68 @@
+.canvas{
+  width: 100%;
+  height: 200;
+}
+
+#chart1{
+  top: 0rpx
+}
+
+#chart2{
+  top: 10rpx
+}
+
+#chart3{
+  top: 20rpx
+}
+.btn1{
+  width: 60%;
+  background-color: #999999;
+  margin-top: 50rpx;
+  background-color: #F0FFFF;
+  color: black;
+  border-radius: 98rpx; 
+  margin-bottom: 10px;
+  
+}
+.btn1::after {
+  border-radius: 98rpx;
+  border: 0px;
+}
+.btn2{
+  width: 30%;
+  background-color: #999999;
+  margin-top: 20rpx;
+  background-color: #F0FFFF;
+  color: black;
+  border-radius: 98rpx; 
+  margin-bottom: 5px;
+  float: left;
+  margin-left: 50px;
+ 
+}
+.btn2::after {
+  border-radius: 98rpx;
+  border: 0px;
+}
+.btn3{
+  width: 30%;
+  background-color: #999999;
+  margin-top: 20rpx;
+  background-color: #F0FFFF;
+  color: black;
+  border-radius: 98rpx; 
+  margin-bottom: 5px;
+  float: right;
+  margin-right: 50px;
+ 
+}
+.btn3::after {
+  border-radius: 98rpx;
+  border: 0px;
+}
+.click{
+  background-color:#EEEEEE;
+}
+.top{
+  margin-top: 40px;
+}

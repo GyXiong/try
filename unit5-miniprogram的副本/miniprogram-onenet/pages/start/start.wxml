@@ -1,0 +1,5 @@
+<!--start.wxml-->
+<view class="intro">
+ 查看上次测量的ECG数据与图像
+</view>
+<button class="btn1" bindtap="navigate" hover-class="click">查看</button>

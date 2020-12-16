@@ -1,0 +1,8 @@
+
+
+
+<view class="intro">您的心率为：{{cout}}</view>
+<view><button bindtap="jianyi">查看建议</button></view>
+<view>
+{{jianyi}}
+</view>
